@@ -48,5 +48,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contributors
-Your Name - saurabh04sharma
+ Name - saurabh04sharma
 Feel free to contribute to this project by opening issues and submitting pull requests.
